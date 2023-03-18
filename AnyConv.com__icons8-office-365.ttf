@@ -1,0 +1,8 @@
+push graphic-context
+viewbox 0 0 48 48
+affine 1 0 0 1 0 0
+push graphic-context
+fill '#e64a19'
+path 'M7 12L29 4 41 7 41 41 29 44 7 36 29 39 29 10 15 13 15 33 7 36z'
+pop graphic-context
+pop graphic-context
